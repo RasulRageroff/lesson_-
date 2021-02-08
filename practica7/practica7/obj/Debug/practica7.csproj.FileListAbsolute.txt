@@ -1,0 +1,9 @@
+C:\Users\tarki\source\repos\practica7\practica7\bin\Debug\practica7.exe.config
+C:\Users\tarki\source\repos\practica7\practica7\bin\Debug\practica7.exe
+C:\Users\tarki\source\repos\practica7\practica7\bin\Debug\practica7.pdb
+C:\Users\tarki\source\repos\practica7\practica7\obj\Debug\practica7.Form1.resources
+C:\Users\tarki\source\repos\practica7\practica7\obj\Debug\practica7.Properties.Resources.resources
+C:\Users\tarki\source\repos\practica7\practica7\obj\Debug\practica7.csproj.GenerateResource.cache
+C:\Users\tarki\source\repos\practica7\practica7\obj\Debug\practica7.exe
+C:\Users\tarki\source\repos\practica7\practica7\obj\Debug\practica7.pdb
+C:\Users\tarki\source\repos\practica7\practica7\obj\Debug\practica7.csprojAssemblyReference.cache
